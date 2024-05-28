@@ -11,7 +11,7 @@
 	<groupId>com.promineotech</groupId>
 	<artifactId>sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>2023-08-29-be-pacific-Spring-Start</name>
+	<name>Spring-Starter</name>
 	<description>Sample / starting project for week 1.</description>
 	<properties>
 		<java.version>17</java.version>
